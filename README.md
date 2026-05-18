@@ -1,8 +1,8 @@
-# GLANet
+# CoAttnNet
 
 Code repository for the paper:
 
-**GLANet: Global--Local Attention Network for Robust Seismic Phase Picking**
+**G CoAttnNet: Collaborative Attention Network for Robust Phase Picking**
 
 ## Overview
 
